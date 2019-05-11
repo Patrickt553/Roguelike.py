@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: tdl
+Version: 6.0.0
+Summary: legacy package
+Home-page: https://github.com/libtcod/python-tcod
+Author: Kyle Stewart
+Author-email: 4B796C65+tdl@gmail.com
+License: Simplified BSD License
+Platform: UNKNOWN
+Requires-Dist: tcod
+
+
+This package has moved to https://pypi.org/project/tcod/
+
+
